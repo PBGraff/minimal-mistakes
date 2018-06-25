@@ -103,7 +103,7 @@ author:
   name             : "Philip Graff"
   avatar           : "/assets/images/graff.png"
   bio              : "Data Scientist and past Astrophysicst."
-  location         : "College Park, Maryland, USA"
+  location         : "College Park, MD, USA"
   email            : "philip.b.graff@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
